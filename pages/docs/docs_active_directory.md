@@ -4,8 +4,8 @@ tags: [Integration]
 keywords: integration, ad, enterprise connect, nomad
 last_updated: Dec 2, 2016
 summary: "To bind or not to bind?"
-sidebar: mydoc_sidebar
-permalink: mydoc_active_directory.html
+sidebar: docs_sidebar
+permalink: docs_active_directory.html
 ---
 
 ## Arguments for binding or not binding to Active Directory
