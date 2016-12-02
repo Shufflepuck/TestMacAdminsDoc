@@ -1,0 +1,9 @@
+entries:
+- title: sidebar
+  product: MacAdmin Docs
+  version: 1.0
+  folders:
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
